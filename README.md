@@ -1,5 +1,5 @@
 # TierList
-Menbros: Antonio Gabriel, Arthur Alexandre Nascimento, João Messina, Juan Israel, Lucas Lorival Machado
+Menbros: Antônio Gabriel de Matos Villalva, Arthur Alexandre Nascimento, João Messina, Juan Israel Souza, Lucas Lorival Machado
 Repositório para o trabalho de Web, Faremos uma tier list.
 
 A proposta é criar uma página web que permita aos usuários criar e gerenciar suas próprias "tier lists". Inspirados pelo site lomolist.com, a página seguirá um processo de três etapas:
