@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  header {
+    background-color: #333;
+    padding: 25px;
+    text-align: center;
+  }
+  
+  header img {
+    max-width: 100px;
+  }
+  
+  .header-buttons {
+    float: right;
+  }
+  
+  .header-buttons button {
+    margin-left: 10px;
+    padding: 5px 10px;
+    background-color: #555;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
