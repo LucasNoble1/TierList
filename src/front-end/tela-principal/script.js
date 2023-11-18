@@ -1,7 +1,7 @@
-function signIn() {
+function editProfile() {
     // Handle sign-in logic
   }
   
-  function signUp() {
+  function logOut() {
     // Handle sign-up logic
   }
